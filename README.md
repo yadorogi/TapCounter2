@@ -6,7 +6,7 @@ This is a simple example.
 No storyboards are used.
 
 ## Image
-<img width="600" alt="TapCounter(SwiftUI)" src="https://github.com/yadorogi/TapCounter2/assets/5846718/7cc1a3cb-9e1b-45e8-b21e-f95362e9f329">
+<img width="600" alt="TapCounter(Swift UIKit)" src="https://github.com/yadorogi/TapCounter2/assets/5846718/f603cd77-380f-4153-b2ac-ef973d75e37a">
 
 ## Movie
-https://www.youtube.com/shorts/TfXKQyyYmoQ
+https://www.youtube.com/shorts/vni2N-1YhLU
